@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
 ![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
+</div>
