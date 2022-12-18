@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-berrios-o&layout=compact)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matias-berrios-o&theme=radical)
 
 
 
