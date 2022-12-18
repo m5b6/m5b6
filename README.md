@@ -1,3 +1,6 @@
+
+<div align="center">
+
 ### Hey there! 😁
 
 <!--
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 
 [Check out my personal portfolio!](https://matias-berrios-o.github.io/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matias-berrios-o&theme=omni&border_radius=60)](https://git.io/streak-stats){align=center}
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matias-berrios-o&theme=omni&border_radius=60)](https://git.io/streak-stats)
 
 
 
@@ -27,3 +30,4 @@ Here are some ideas to get you started:
 
 
 ![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
+</div>
