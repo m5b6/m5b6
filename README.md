@@ -1,4 +1,4 @@
-### Welcome to my profile 😁
+### Hey there! 😁
 
 <!--
 **matias-berrios-o/matias-berrios-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="">Check out my personal portfolio!</a>
+###[Check out my personal portfolio!](https://matias-berrios-o.github.io/)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
