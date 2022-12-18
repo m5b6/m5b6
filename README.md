@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 
 
 ![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
+
+![Matias's GitHub stats](https://github-readme-stats.vercel.app/api?username=matias-berrios-o&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-berrios-o&layout=compact)](
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matias-berrios-o&repo=github-readme-stats)](
+
+    
