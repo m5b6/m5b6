@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 [Check out my personal portfolio!](https://matias-berrios-o.github.io/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matias-berrios-o&theme=omni&border_radius=60)](https://git.io/streak-stats){align=center}
 
-![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-berrios-o&layout=compact)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matias-berrios-o&theme=violet-punch&border_radius=60)](https://git.io/streak-stats)
 
-
+![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
