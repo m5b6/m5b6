@@ -23,11 +23,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matias-berrios-o&theme=omni&border_radius=60)](https://git.io/streak-stats)
 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matias-berrios-o&layout=compact)
-
-
-
 ![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
 </div>
