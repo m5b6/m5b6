@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###[Check out my personal portfolio!](https://matias-berrios-o.github.io/)
+[Check out my personal portfolio!](https://matias-berrios-o.github.io/)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
