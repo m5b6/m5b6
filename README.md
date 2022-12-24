@@ -9,7 +9,7 @@
 
 
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matias-berrios-o&theme=omni&border_radius=60)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matias-berrios-o&theme=omni&border_radius=60)](https://git.io/streak-stats)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/matias-berrios-o/count.svg)
