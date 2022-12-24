@@ -5,8 +5,8 @@
   <br/>
 
 - 🔭 I’m currently using computer vision to measure the effects of rolling shutter on a drone based telescope calibration system.
-- 🌱 I’m currently learning Vue & Typescript
-- 📫 How to reach me: Check out my [personal portfolio](https://matias-berrios-o.github.io/)
+- 🌱 I’m currently learning Vue & Typescript.
+- 📫 How to reach me: Check out my [personal portfolio](https://matias-berrios-o.github.io/).
 - 🏋🏽‍♂️ Passionate about sports!
 
 
