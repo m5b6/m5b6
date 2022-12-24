@@ -1,6 +1,7 @@
 
 <div align="left">
-### Hey there! 
+
+  <strong>Hey there!</strong> 
 
 - 🔭 I’m currently using computer vision to measure the effects of rolling shutter on a drone based telescope calibration system.
 - 🌱 I’m currently learning Vue & Typescript
