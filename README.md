@@ -2,5 +2,5 @@
 
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/matiasberrios"><img src="linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/matiasberrios"><img src="LinkedIn_icon.svg.png" alt="LinkedIn"></a>
 </p>
