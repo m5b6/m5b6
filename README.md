@@ -1,8 +1,1 @@
-
-  
-- 🌱 currently doing research
-  
-- 🏋🏽‍♂️ i like doing sports
-
-
-
+🌱 currently doing research and learning many things
