@@ -1,1 +1,1 @@
-🌱 currently doing research and learning many things
+🌱 currently making neuroimaging classification models more explicable 
