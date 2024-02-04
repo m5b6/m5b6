@@ -1,11 +1,8 @@
-  <strong>Hey</strong> 
-  <br/>
+
   
-- 🌱 I’m currently learning Angular
+- 🌱 currently doing research
   
-- 📫 How to reach me:  [my landing page](https://matias-berrios-o.github.io/).
-  
-- 🏋🏽‍♂️ I like doing sports
+- 🏋🏽‍♂️ i like doing sports
 
 
 
