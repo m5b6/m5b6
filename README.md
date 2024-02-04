@@ -1,4 +1,4 @@
-🌱 currently making neuroimaging classification models more explicable 
+currently researching how to make neuroimaging classification models more explicable 
 
 
 <p align="center">
