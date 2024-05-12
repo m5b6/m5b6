@@ -1,4 +1,4 @@
-currently researching how to make neuroimaging classification models more explicable 
+
 
 
 <p align="center">
