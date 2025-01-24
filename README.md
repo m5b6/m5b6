@@ -1,1 +1,2 @@
-building <a href="https://usevita.health/">vita</a>
+building <a href="https://vita.lat/">vita</a>
+
